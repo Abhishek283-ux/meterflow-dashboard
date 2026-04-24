@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import Layout from "./layout/Layout";
-import Dashboard from "./pages/dashboard.jsx";
+import Dashboard from "C:\projects\meterflow-dashboard\src\pages\Dashboard.jsx";
 import Analytics from "./pages/Analytics";
 import ApiKeys from "./pages/ApiKeys";
 
